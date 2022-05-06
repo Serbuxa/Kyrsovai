@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+#left {
+	width: 100%;
+	border: 1px solid red; 
+	float: center;
+}
+
+#right {
+	width: 100%;
+	border: 1px solid green;
+	float: center;
+	text-emphasis: center;
+}
+
+.btn1 {
+	margin: 5% 15%;
+	padding: 9px 10px;
+}
+.btn2 {
+	margin: 15% 5%;
+	padding: 9px 10px;
+}
+
+#under{
+	width: 100%;
+	border: 1px solid black;
+	float: center;
+}
